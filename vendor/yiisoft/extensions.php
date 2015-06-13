@@ -57,4 +57,13 @@ return array (
       '@yii/faker' => $vendorDir . '/yiisoft/yii2-faker',
     ),
   ),
+  'romdim/yii2-bootstrap-material' => 
+  array (
+    'name' => 'romdim/yii2-bootstrap-material',
+    'version' => '9999999-dev',
+    'alias' => 
+    array (
+      '@romdim/bootstrap/material' => $vendorDir . '/romdim/yii2-bootstrap-material',
+    ),
+  ),
 );
